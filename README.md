@@ -19,9 +19,8 @@ This C++ project is an object-oriented simulation of a role-based strategy game 
   - `Merchant`
 - `main.cpp` – A terminal-based simulation that allows interactive play.
 - `test.cpp` – Unit tests using **doctest** framework to verify role logic and edge cases.
-- `Makefile` – Supports `make test`, `make Main`, `make gui` (GUI is optional).
-- `demo.cpp` – (As provided by instructions) – not to be modified.
-- `gui/` – (If used) Contains GUI implementation (optional in this version).
+- `Makefile` – Supports `make test`, `make Main`, `make gui`.
+- `gui/` – Contains GUI implementation.
 
 ---
 
