@@ -67,7 +67,7 @@ make test
 
 ## 🧪 Testing
 
-- Includes **10+ test cases** validating:
+- Includes **9+ test cases** validating:
   - Role-specific behavior
   - Turn mechanics
   - Coin constraints
@@ -93,11 +93,5 @@ All `.cpp` and `.hpp` files include human-readable documentation above functions
 
 ---
 
-## 📝 Notes
-
-- Follows strict assignment guidelines: no STL containers (except string/vector where required), no `using namespace std`, full operator implementation, and a fixed `Demo.cpp`.
-- GUI is optional and not included in the test or main flow unless implemented.
-
----
 
 ## 🏁 End of README
